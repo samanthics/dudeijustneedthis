@@ -205,7 +205,24 @@
     "version":"0",
     "customOverlays": true,
     "mentionLineColor": "#e5c890",
-    "iconpack": "solarduotone"
+    "iconpack": "solarduotone",
+    "icons":{
+          "ic_radio_circle_checked": "#B5BDFF",
+          "ic_radio_circle_checked__overlay": "#FFFFFF",
+          "ic_radio_square_24px": "#B5BDFF",
+          "ic_radio_square_checked_24px": "#B5BDFF",
+          "ic_radio_square_checked_24px__overlay": "#FFFFFF",
+          "ic_rich_presence_dark_12px": "#929ce7",
+          "ic_selection_checked_24px": "#B5BDFF",
+          "ic_selection_checked_24px__overlay": "#FFFFFF",
+          "ic_star_filled": "#97B9F4",
+          "img_guild_folder": "#B5BDFF",
+          "StatusMobileOnline": "#8EAEE5",
+          "StatusOnline": "#8EAEE5",
+          "StatusIdle": "#87A6DB",
+          "StatusDND": "#97B9F4",
+          "StatusOffline": "#bebee3"
+    }
   },
     "spec": 2
 }
