@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Monofur",
+  "previewText": "Monofur",
+  "main": {
+      "ABCGintoNord-ExtraBold": "https://github.com/noisnemid/monofurx-the-monospace-font/blob/master/monofurx.ttf",
+      "ggsans-Bold": "https://github.com/noisnemid/monofurx-the-monospace-font/blob/master/monofurx.ttf",
+      "ggsans-BoldItalic": "https://github.com/noisnemid/monofurx-the-monospace-font/blob/master/monofurx.ttf",
+      "ggsans-ExtraBold": "https://github.com/noisnemid/monofurx-the-monospace-font/blob/master/monofurx.ttf",
+      "ggsans-ExtraBoldItalic": "https://github.com/noisnemid/monofurx-the-monospace-font/blob/master/monofurx.ttf",
+      "ggsans-Medium": "https://github.com/noisnemid/monofurx-the-monospace-font/blob/master/monofurx.ttf",
+      "ggsans-MediumItalic": "https://github.com/noisnemid/monofurx-the-monospace-font/blob/master/monofurx.ttf",
+      "ggsans-Normal": "https://github.com/noisnemid/monofurx-the-monospace-font/blob/master/monofurx.ttf",
+      "ggsans-NormalItalic": "https://github.com/noisnemid/monofurx-the-monospace-font/blob/master/monofurx.ttf",
+      "ggsans-Semibold": "https://github.com/noisnemid/monofurx-the-monospace-font/blob/master/monofurx.ttf",
+      "ggsans-SemiboldItalic": "https://github.com/noisnemid/monofurx-the-monospace-font/blob/master/monofurx.ttf",
+      "NotoSans-Bold": "https://github.com/noisnemid/monofurx-the-monospace-font/blob/master/monofurx.ttf",
+      "NotoSans-ExtraBold": "https://github.com/noisnemid/monofurx-the-monospace-font/blob/master/monofurx.ttf",
+      "NotoSans-Medium": "https://github.com/noisnemid/monofurx-the-monospace-font/blob/master/monofurx.ttf",
+      "NotoSans-Normal": "https://github.com/noisnemid/monofurx-the-monospace-font/blob/master/monofurx.ttf",
+      "NotoSans-NormalItalic": "https://github.com/noisnemid/monofurx-the-monospace-font/blob/master/monofurx.ttf",
+      "NotoSans-Semibold": "https://github.com/noisnemid/monofurx-the-monospace-font/blob/master/monofurx.ttf",
+      "ggmono-Normal": "https://github.com/noisnemid/monofurx-the-monospace-font/blob/master/monofurx.ttf"
+  }
+}
