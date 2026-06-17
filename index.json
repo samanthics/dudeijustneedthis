@@ -201,12 +201,12 @@
     "CHAT_MENTIONS_FOREGROUND_DARK": "#ca9ee6",
     "CHAT_MENTIONS_FOREGROUND_LIGHT": "#ca9ee6"
   },
-  "plus":{
-    "version":"0",
-    "customOverlays": true,
-    "mentionLineColor": "#e5c890",
-    "iconpack": "solarduotone",
-    "icons":{
+  "plus": {
+       "version": "0",
+       "iconpack": "solarduotone",
+       "mentionLineColor": "#97B9F4",
+       "customOverlays": true,
+       "icons":{
           "ic_radio_circle_checked": "#B5BDFF",
           "ic_radio_circle_checked__overlay": "#FFFFFF",
           "ic_radio_square_24px": "#B5BDFF",
@@ -222,7 +222,7 @@
           "StatusIdle": "#87A6DB",
           "StatusDND": "#97B9F4",
           "StatusOffline": "#bebee3"
-    }
-  },
+            }
+    },
     "spec": 2
 }
